@@ -1,0 +1,16 @@
+{
+ "source": {
+  "kind": "file",
+  "ref": "assets/img/city-spot-ioannina-logo-icon.svg"
+ },
+ "source_md5": "a5ab158b3b5f962f1be6b0ee89dc6b3e",
+ "version": "4b05bc45",
+ "tile": null,
+ "crop": null,
+ "header": [
+  "inline",
+  "index.html",
+  "aa4ba48cd89119e64ce6a38935f00802"
+ ],
+ "made": "2026-11-11"
+}
